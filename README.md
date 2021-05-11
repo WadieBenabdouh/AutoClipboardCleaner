@@ -1,4 +1,2 @@
-REM This script will clear the current clipboard
-REM
+This script will clear the current clipboard
 
-cmd /c "echo off | clip"
